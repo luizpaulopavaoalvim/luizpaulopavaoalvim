@@ -3,18 +3,21 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=luizpaulopavaoalvim&show_icons=true&count_private=true&hide_border=true&title_color=00FA9A&icon_color=FFFFFF&text_color=00FA9A&bg_color=161b22" alt="Luiz Paulo Pavão github stats" />
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizpaulopavaoalvim&layout=compact&hide_border=true&title_color=00FA9A&text_color=00FA9A&bg_color=161b22" />
 </div>
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=luizpaulopavaoalvim&bg_color=0d1117&color=00fa9a&line=00fa9a&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <div align="center">
 <a href="https://www.linkedin.com/in/luizpaulopavaoalvim/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
  
   ### Principais Habilidades:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0d1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0d1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0d1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-161b22?style=for-the-badge&logo=javascript&labelColor=161b22)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-161b22?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=161b22)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-161b22?style=for-the-badge&logo=react&labelColor=161b22)&nbsp;
 
 ### Estudando neste momento:
-![React.js](https://img.shields.io/badge/-React.js-0d1117?style=for-the-badge&logo=react&labelColor=0d1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0d1117?style=for-the-badge&logo=node.js&labelColor=0d1117A&textColor=0d1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-161b22?style=for-the-badge&logo=react&labelColor=161b22)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-161b22?style=for-the-badge&logo=node.js&labelColor=161b22A&textColor=161b22)&nbsp;
 
 <div align="center">
 <br><p align="center"><b>Visitors Count</b></p>  

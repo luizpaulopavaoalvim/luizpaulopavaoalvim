@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FA9A&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Luiz+Paulo+Pavão;sou+brasileiro;sou+Analista+de+Desenvolvimento+de+Sistemas;Bem+Vindo+ao+meu+perfil!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FA9A&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Luiz+Paulo+Pavão;sou+Analista+e+Desenvolvedor+de+Sistemas;Bem+Vindo+ao+meu+perfil!)
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=luizpaulopavaoalvim&show_icons=true&count_private=true&hide_border=true&title_color=00FA9A&icon_color=FFFFFF&text_color=00FA9A&bg_color=161b22" alt="Luiz Paulo Pavão github stats" />
 
